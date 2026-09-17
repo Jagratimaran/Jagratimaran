@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am working at Accenture<br>Looking forward to collaborate on Agentic AI, Machine Learning and value creation<br>Currently learning Langgraph, langsmith<br>I am looking for opportunity where I can grow my technical skills and use them in real world<br>
+Looking forward to collaborate on Agentic AI, Machine Learning and value creation<br>Currently learning Langgraph, langsmith<br>I am looking for opportunity where I can grow my technical skills and use them in real world<br>
 
 
 ## 🌐 Socials:
